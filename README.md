@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @GeorgeRoupos
+- 👋 Hi, I’m @GeorgeRoupos.
+- I'm Automation Engineer and I am a student at the Department of Informatics (software engineer) of the Hellenic Open University.
 - 👀 I’m interested in Linux and open source programs in general & programming robots using it.
 - 🌱 I’m currently learning Python, algorithms (in general) and developer mindset.
 - 💞️ I’m looking to collaborate on groups dealing with Linux Operating System, Programming of robotic systems, Unmanned Aircraft Systems and Automation Systems.
